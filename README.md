@@ -299,7 +299,7 @@ This will ensure you are spending your time on the most impactful things first!
 - [Richard Donovan](https://www.linkedin.com/in/rich-donovan/)
 - [Daniel Moka](https://www.linkedin.com/in/danielmoka/)
 - [Tiger Abrodi](https://www.linkedin.com/in/tiger-abrodi/)
-- [Hemant Pandey](https://www.linkedin.com/in/hemant-pandey/
+- [Hemant Pandey](https://www.linkedin.com/in/hemant-pandey/)
 - [Alexandre Zajac](https://www.linkedin.com/in/alexandre-zajac/)
 - [Brian Jenney](https://www.linkedin.com/in/brianjenney/)
 - [Francisco Manuel (Fran) Soto Ramírez](https://www.linkedin.com/in/fransotodev/)
