@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>engineering</title>
+    <dateCreated>Sun, 19 Jul 2026 17:32:09 GMT</dateCreated>
+    <ownerName>resources-to-become-a-great-engineering-leader</ownerName>
+  </head>
+  <body>
+    <outline text="engineering" title="engineering">
+      <outline type="rss" text="System Design Newsletter" title="System Design Newsletter" xmlUrl="https://newsletter.systemdesign.one/feed" htmlUrl="https://newsletter.systemdesign.one/"/>
+      <outline type="rss" text="ByteByteGo" title="ByteByteGo" xmlUrl="https://blog.bytebytego.com/feed" htmlUrl="https://blog.bytebytego.com/"/>
+      <outline type="rss" text="AlgoMaster Newsletter" title="AlgoMaster Newsletter" xmlUrl="https://blog.algomaster.io/feed" htmlUrl="https://blog.algomaster.io/"/>
+      <outline type="rss" text="Byte-Sized Design" title="Byte-Sized Design" xmlUrl="https://bytesizeddesign.substack.com/feed" htmlUrl="https://bytesizeddesign.substack.com/"/>
+      <outline type="rss" text="System Design Codex" title="System Design Codex" xmlUrl="https://newsletter.systemdesigncodex.com/feed" htmlUrl="https://newsletter.systemdesigncodex.com/"/>
+      <outline type="rss" text="System Design Classroom" title="System Design Classroom" xmlUrl="https://newsletter.systemdesignclassroom.com/feed" htmlUrl="https://newsletter.systemdesignclassroom.com/"/>
+      <outline type="rss" text="Big Tech Careers" title="Big Tech Careers" xmlUrl="https://newsletter.bigtechcareers.com/feed" htmlUrl="https://newsletter.bigtechcareers.com/"/>
+      <outline text="Simple AWS [no public RSS feed]" title="Simple AWS" htmlUrl="https://newsletter.simpleaws.dev/"/>
+      <outline type="rss" text="Level Up Coding System Design Newsletter" title="Level Up Coding System Design Newsletter" xmlUrl="https://lucsystemdesign.substack.com/feed" htmlUrl="https://lucsystemdesign.substack.com/"/>
+      <outline type="rss" text="Hacking Scale by Better Stack" title="Hacking Scale by Better Stack" xmlUrl="https://newsletter.betterstack.com/feed" htmlUrl="https://newsletter.betterstack.com/"/>
+      <outline type="rss" text="Neo Kim" title="Neo Kim" xmlUrl="https://newsletter.systemdesign.one/feed" htmlUrl="https://newsletter.systemdesign.one/"/>
+      <outline type="rss" text="Alex Xu" title="Alex Xu" xmlUrl="https://blog.bytebytego.com/feed" htmlUrl="https://blog.bytebytego.com/"/>
+      <outline type="rss" text="Raul Junco" title="Raul Junco" xmlUrl="https://newsletter.systemdesignclassroom.com/feed" htmlUrl="https://newsletter.systemdesignclassroom.com/"/>
+      <outline type="rss" text="Saurabh Dashora" title="Saurabh Dashora" xmlUrl="https://newsletter.systemdesigncodex.com/feed" htmlUrl="https://newsletter.systemdesigncodex.com/"/>
+      <outline type="rss" text="Shalini Goyal" title="Shalini Goyal" xmlUrl="https://shalinigoyal.substack.com/feed" htmlUrl="https://shalinigoyal.substack.com/"/>
+      <outline type="rss" text="Nikki Siapno" title="Nikki Siapno" xmlUrl="https://lucsystemdesign.substack.com/feed" htmlUrl="https://lucsystemdesign.substack.com/"/>
+      <outline text="Mayank Ahuja [no public RSS feed]" title="Mayank Ahuja" htmlUrl="https://www.linkedin.com/in/curiouslearner/"/>
+      <outline type="rss" text="Prasad Rao" title="Prasad Rao" xmlUrl="https://newsletter.bigtechcareers.com/feed" htmlUrl="https://newsletter.bigtechcareers.com/"/>
+      <outline type="rss" text="Guille Ojeda" title="Guille Ojeda" xmlUrl="https://blog.guilleojeda.com/rss.xml" htmlUrl="https://blog.guilleojeda.com/"/>
+      <outline type="rss" text="Evan King" title="Evan King" xmlUrl="https://evanking1.medium.com/feed" htmlUrl="https://evanking1.medium.com/"/>
+      <outline type="rss" text="Engineering Leadership" title="Engineering Leadership" xmlUrl="https://newsletter.eng-leadership.com/feed" htmlUrl="https://newsletter.eng-leadership.com/"/>
+      <outline type="rss" text="Elevate" title="Elevate" xmlUrl="https://addyo.substack.com/feed" htmlUrl="https://addyo.substack.com/"/>
+      <outline type="rss" text="Scarlet Ink" title="Scarlet Ink" xmlUrl="https://www.scarletink.com/feed" htmlUrl="https://www.scarletink.com/"/>
+      <outline type="rss" text="The Hybrid Hacker" title="The Hybrid Hacker" xmlUrl="https://hybridhacker.email/feed" htmlUrl="https://hybridhacker.email/"/>
+      <outline type="rss" text="Manager.dev" title="Manager.dev" xmlUrl="https://newsletter.manager.dev/feed" htmlUrl="https://newsletter.manager.dev/"/>
+      <outline type="rss" text="The Caring Techie Newsletter" title="The Caring Techie Newsletter" xmlUrl="https://www.thecaringtechie.com/feed" htmlUrl="https://www.thecaringtechie.com/"/>
+      <outline type="rss" text="Tech World With Milan Newsletter" title="Tech World With Milan Newsletter" xmlUrl="https://newsletter.techworld-with-milan.com/feed" htmlUrl="https://newsletter.techworld-with-milan.com/"/>
+      <outline type="rss" text="The Conscious Leader" title="The Conscious Leader" xmlUrl="https://tahahussain.substack.com/feed" htmlUrl="https://tahahussain.substack.com/"/>
+      <outline type="rss" text="The Engineering Manager" title="The Engineering Manager" xmlUrl="https://theengineeringmanager.substack.com/feed" htmlUrl="https://theengineeringmanager.substack.com/"/>
+      <outline type="rss" text="Techlead Mentor" title="Techlead Mentor" xmlUrl="https://newsletter.techleadmentor.com/feed" htmlUrl="https://newsletter.techleadmentor.com/"/>
+      <outline type="rss" text="Developing Skills" title="Developing Skills" xmlUrl="https://developingskills.substack.com/feed" htmlUrl="https://developingskills.substack.com/"/>
+      <outline type="rss" text="Refactoring" title="Refactoring" xmlUrl="https://refactoring.fm/feed" htmlUrl="https://refactoring.fm/"/>
+      <outline type="rss" text="Level up as a Tech Lead" title="Level up as a Tech Lead" xmlUrl="https://anemarifiser.substack.com/feed" htmlUrl="https://anemarifiser.substack.com/"/>
+      <outline type="rss" text="Thinking in Tech" title="Thinking in Tech" xmlUrl="https://www.thinkingintech.com/feed" htmlUrl="https://www.thinkingintech.com/"/>
+      <outline type="rss" text="Adrian Builds" title="Adrian Builds" xmlUrl="https://blog.adrianstanek.dev/feed" htmlUrl="https://blog.adrianstanek.dev/"/>
+      <outline type="rss" text="Level Up Newsletter" title="Level Up Newsletter" xmlUrl="https://levelupwithethanevans.substack.com/feed" htmlUrl="https://levelupwithethanevans.substack.com/"/>
+      <outline type="rss" text="The Chronicles of a High EQ Leader" title="The Chronicles of a High EQ Leader" xmlUrl="https://www.theeqleader.com/feed" htmlUrl="https://www.theeqleader.com/"/>
+      <outline type="rss" text="Crafting Tech Teams" title="Crafting Tech Teams" xmlUrl="https://craftingtechteams.substack.com/feed" htmlUrl="https://craftingtechteams.substack.com/"/>
+      <outline type="rss" text="The Software Engineering Times" title="The Software Engineering Times" xmlUrl="https://thesoftwareengineeringtimes.substack.com/feed" htmlUrl="https://thesoftwareengineeringtimes.substack.com/"/>
+      <outline type="rss" text="Alex Ewerlof Notes" title="Alex Ewerlof Notes" xmlUrl="https://blog.alexewerlof.com/feed" htmlUrl="https://blog.alexewerlof.com/"/>
+      <outline type="rss" text="Sudo Make Me a CTO" title="Sudo Make Me a CTO" xmlUrl="https://makemeacto.substack.com/feed" htmlUrl="https://makemeacto.substack.com/"/>
+      <outline type="rss" text="Programming Leadership - Marcus Blankenship" title="Programming Leadership - Marcus Blankenship" xmlUrl="https://marcusblankenship.substack.com/feed" htmlUrl="https://marcusblankenship.substack.com/"/>
+      <outline type="rss" text="Blog for Engineering Managers" title="Blog for Engineering Managers" xmlUrl="https://blog4ems.com/feed" htmlUrl="https://blog4ems.com/"/>
+      <outline text="Leadership Superpowers [no public RSS feed]" title="Leadership Superpowers" htmlUrl="https://gplead.com/newsletter/"/>
+      <outline type="rss" text="Gregor Ojstersek" title="Gregor Ojstersek" xmlUrl="https://newsletter.eng-leadership.com/feed" htmlUrl="https://newsletter.eng-leadership.com/"/>
+      <outline type="rss" text="Omar Halabieh" title="Omar Halabieh" xmlUrl="https://omarhalabieh.substack.com/feed" htmlUrl="https://omarhalabieh.substack.com/"/>
+      <outline type="rss" text="Nicola Ballotta" title="Nicola Ballotta" xmlUrl="https://hybridhacker.email/feed" htmlUrl="https://hybridhacker.email/"/>
+      <outline type="rss" text="Irina Stanescu" title="Irina Stanescu" xmlUrl="https://www.thecaringtechie.com/feed" htmlUrl="https://www.thecaringtechie.com/"/>
+      <outline type="rss" text="Luca Rossi" title="Luca Rossi" xmlUrl="https://refactoring.fm/feed" htmlUrl="https://refactoring.fm/"/>
+      <outline type="rss" text="Addy Osmani" title="Addy Osmani" xmlUrl="https://addyo.substack.com/feed" htmlUrl="https://addyo.substack.com/"/>
+      <outline type="rss" text="Taha Hussain" title="Taha Hussain" xmlUrl="https://tahahussain.substack.com/feed" htmlUrl="https://tahahussain.substack.com/"/>
+      <outline type="rss" text="Anton Zaides" title="Anton Zaides" xmlUrl="https://newsletter.manager.dev/feed" htmlUrl="https://newsletter.manager.dev/"/>
+      <outline type="rss" text="Dr Milan Milanović" title="Dr Milan Milanović" xmlUrl="https://newsletter.techworld-with-milan.com/feed" htmlUrl="https://newsletter.techworld-with-milan.com/"/>
+      <outline type="rss" text="David Anderson" title="David Anderson" xmlUrl="https://www.scarletink.com/feed" htmlUrl="https://www.scarletink.com/"/>
+      <outline type="rss" text="Anemari Fiser" title="Anemari Fiser" xmlUrl="https://anemarifiser.substack.com/feed" htmlUrl="https://anemarifiser.substack.com/"/>
+      <outline type="rss" text="Raviraj Achar" title="Raviraj Achar" xmlUrl="https://ravirajachar.substack.com/feed" htmlUrl="https://ravirajachar.substack.com/"/>
+      <outline type="rss" text="Pedro Gil Carvalho" title="Pedro Gil Carvalho" xmlUrl="https://imperfect.substack.com/feed" htmlUrl="https://imperfect.substack.com/"/>
+      <outline type="rss" text="Dariusz Sadowski" title="Dariusz Sadowski" xmlUrl="https://www.thinkingintech.com/feed" htmlUrl="https://www.thinkingintech.com/"/>
+      <outline type="rss" text="Adrian Stanek" title="Adrian Stanek" xmlUrl="https://blog.adrianstanek.dev/feed" htmlUrl="https://blog.adrianstanek.dev/"/>
+      <outline type="rss" text="Ali Merchant" title="Ali Merchant" xmlUrl="https://alimerchant.substack.com/feed" htmlUrl="https://alimerchant.substack.com/"/>
+      <outline type="rss" text="Alexander Kliotzkin" title="Alexander Kliotzkin" xmlUrl="https://alexkliotzkin.substack.com/feed" htmlUrl="https://alexkliotzkin.substack.com/"/>
+      <outline type="rss" text="Ethan Evans" title="Ethan Evans" xmlUrl="https://levelupwithethanevans.substack.com/feed" htmlUrl="https://levelupwithethanevans.substack.com/"/>
+      <outline type="rss" text="Djordje Mladenovic" title="Djordje Mladenovic" xmlUrl="https://djordjemladenovic.substack.com/feed" htmlUrl="https://djordjemladenovic.substack.com/"/>
+      <outline type="rss" text="Denis Čahuk" title="Denis Čahuk" xmlUrl="https://craftingtechteams.substack.com/feed" htmlUrl="https://craftingtechteams.substack.com/"/>
+      <outline type="rss" text="Matt Watson" title="Matt Watson" xmlUrl="https://mattwatson.substack.com/feed" htmlUrl="https://mattwatson.substack.com/"/>
+      <outline text="Sarah Gruneisen [no public RSS feed]" title="Sarah Gruneisen" htmlUrl="https://www.linkedin.com/in/sgruneisen/"/>
+      <outline type="rss" text="Pramoda Vyasarao" title="Pramoda Vyasarao" xmlUrl="https://pramoda.substack.com/feed" htmlUrl="https://pramoda.substack.com/"/>
+      <outline text="Steven Claes [no public RSS feed]" title="Steven Claes" htmlUrl="https://www.linkedin.com/in/steven-claes/"/>
+      <outline type="rss" text="Anna J McDougall" title="Anna J McDougall" xmlUrl="https://annajmcdougall.medium.com/feed" htmlUrl="https://annajmcdougall.medium.com/"/>
+      <outline type="rss" text="Ryan Murphy" title="Ryan Murphy" xmlUrl="https://ryanmurphy.substack.com/feed" htmlUrl="https://ryanmurphy.substack.com/"/>
+      <outline type="rss" text="Kahlil Lechelt" title="Kahlil Lechelt" xmlUrl="https://kahlil.substack.com/feed" htmlUrl="https://kahlil.substack.com/"/>
+      <outline type="rss" text="James Stanier" title="James Stanier" xmlUrl="https://theengineeringmanager.substack.com/feed" htmlUrl="https://theengineeringmanager.substack.com/"/>
+      <outline type="rss" text="Alex Ewerlöf" title="Alex Ewerlöf" xmlUrl="https://blog.alexewerlof.com/feed" htmlUrl="https://blog.alexewerlof.com/"/>
+      <outline type="rss" text="Itzy Sabo" title="Itzy Sabo" xmlUrl="https://itzy.wordpress.com/feed" htmlUrl="https://itzy.wordpress.com/"/>
+      <outline type="rss" text="Daria Rudnik" title="Daria Rudnik" xmlUrl="https://dariarudnik.substack.com/feed" htmlUrl="https://dariarudnik.substack.com/"/>
+      <outline type="rss" text="Tobias Mende" title="Tobias Mende" xmlUrl="https://mende.io/index.xml" htmlUrl="https://mende.io/"/>
+      <outline type="rss" text="Luca Sartoni" title="Luca Sartoni" xmlUrl="https://lucasartoni.substack.com/feed" htmlUrl="https://lucasartoni.substack.com/"/>
+      <outline type="rss" text="Doug Howard, P.E." title="Doug Howard, P.E." xmlUrl="https://doughoward.substack.com/feed" htmlUrl="https://doughoward.substack.com/"/>
+      <outline type="rss" text="Anco van der Wurff" title="Anco van der Wurff" xmlUrl="https://ancowurff.substack.com/feed" htmlUrl="https://ancowurff.substack.com/"/>
+      <outline type="rss" text="Sergio Visinoni" title="Sergio Visinoni" xmlUrl="https://piffio.medium.com/feed" htmlUrl="https://piffio.medium.com/"/>
+      <outline text="Gregor Purdy [no public RSS feed]" title="Gregor Purdy" htmlUrl="https://www.linkedin.com/in/gregorpurdy/"/>
+      <outline type="rss" text="Coding Challenges" title="Coding Challenges" xmlUrl="https://codingchallenges.substack.com/feed" htmlUrl="https://codingchallenges.substack.com/"/>
+      <outline type="rss" text="High Growth Engineer" title="High Growth Engineer" xmlUrl="https://careercutler.substack.com/feed" htmlUrl="https://careercutler.substack.com/"/>
+      <outline type="rss" text="The Developing Dev" title="The Developing Dev" xmlUrl="https://www.developing.dev/feed" htmlUrl="https://www.developing.dev/"/>
+      <outline type="rss" text="The T-Shaped Dev" title="The T-Shaped Dev" xmlUrl="https://thetshaped.dev/feed" htmlUrl="https://thetshaped.dev/"/>
+      <outline type="rss" text="Hungry Minds" title="Hungry Minds" xmlUrl="https://hungrymindsdev.substack.com/feed" htmlUrl="https://hungrymindsdev.substack.com/"/>
+      <outline type="rss" text="The Hustling Engineer" title="The Hustling Engineer" xmlUrl="https://thehustlingengineer.substack.com/feed" htmlUrl="https://thehustlingengineer.substack.com/"/>
+      <outline type="rss" text="A Life Engineered" title="A Life Engineered" xmlUrl="https://alifeengineered.substack.com/feed" htmlUrl="https://alifeengineered.substack.com/"/>
+      <outline type="rss" text="The Software Engineer Weekly" title="The Software Engineer Weekly" xmlUrl="https://www.thesweekly.com/feed" htmlUrl="https://www.thesweekly.com/"/>
+      <outline type="rss" text="Level up software engineering" title="Level up software engineering" xmlUrl="https://levelupsoftwareengineering.substack.com/feed" htmlUrl="https://levelupsoftwareengineering.substack.com/"/>
+      <outline type="rss" text="Optivem Journal" title="Optivem Journal" xmlUrl="https://journal.optivem.com/feed" htmlUrl="https://journal.optivem.com/"/>
+      <outline type="rss" text="Engineer's Codex" title="Engineer's Codex" xmlUrl="https://read.engineerscodex.com/feed" htmlUrl="https://read.engineerscodex.com/"/>
+      <outline type="rss" text="The Modern Software Developer" title="The Modern Software Developer" xmlUrl="https://tmsd.substack.com/feed" htmlUrl="https://tmsd.substack.com/"/>
+      <outline type="rss" text="Strategize Your Career" title="Strategize Your Career" xmlUrl="https://strategizeyourcareer.substack.com/feed" htmlUrl="https://strategizeyourcareer.substack.com/"/>
+      <outline type="rss" text="The Pragmatic Engineer" title="The Pragmatic Engineer" xmlUrl="https://newsletter.pragmaticengineer.com/feed" htmlUrl="https://newsletter.pragmaticengineer.com/"/>
+      <outline type="rss" text="Software Design: Tidy First?" title="Software Design: Tidy First?" xmlUrl="https://tidyfirst.substack.com/feed" htmlUrl="https://tidyfirst.substack.com/"/>
+      <outline type="rss" text="Dev Details" title="Dev Details" xmlUrl="https://blog.devdetails.com/feed" htmlUrl="https://blog.devdetails.com/"/>
+      <outline type="rss" text="Front-End Focus" title="Front-End Focus" xmlUrl="https://frontendfocus.substack.com/feed" htmlUrl="https://frontendfocus.substack.com/"/>
+      <outline type="rss" text="Craft Better Software" title="Craft Better Software" xmlUrl="https://craftbettersoftware.com/feed" htmlUrl="https://craftbettersoftware.com/"/>
+      <outline type="rss" text="Saiyan Growth Letter" title="Saiyan Growth Letter" xmlUrl="https://www.saiyangrowthletter.com/feed" htmlUrl="https://www.saiyangrowthletter.com/"/>
+      <outline type="rss" text="The Polymathic Engineer" title="The Polymathic Engineer" xmlUrl="https://newsletter.francofernando.com/feed" htmlUrl="https://newsletter.francofernando.com/"/>
+      <outline type="rss" text="ByteSizedBets" title="ByteSizedBets" xmlUrl="https://bytesizedbets.com/feed" htmlUrl="https://bytesizedbets.com/"/>
+      <outline type="rss" text="Maximiliano Contieri - Software Design" title="Maximiliano Contieri - Software Design" xmlUrl="https://maximilianocontieri.com/rss.xml" htmlUrl="https://maximilianocontieri.com/"/>
+      <outline type="rss" text="Path to Staff" title="Path to Staff" xmlUrl="https://pathtostaff.substack.com/feed" htmlUrl="https://pathtostaff.substack.com/"/>
+      <outline type="rss" text="Marko Denic Tech" title="Marko Denic Tech" xmlUrl="https://markodenic.tech/feed" htmlUrl="https://markodenic.tech/"/>
+      <outline type="rss" text="John Crickett" title="John Crickett" xmlUrl="https://codingchallenges.substack.com/feed" htmlUrl="https://codingchallenges.substack.com/"/>
+      <outline type="rss" text="Jordan Cutler" title="Jordan Cutler" xmlUrl="https://careercutler.substack.com/feed" htmlUrl="https://careercutler.substack.com/"/>
+      <outline type="rss" text="Ryan Peterman" title="Ryan Peterman" xmlUrl="https://www.developing.dev/feed" htmlUrl="https://www.developing.dev/"/>
+      <outline type="rss" text="Caleb Mellas" title="Caleb Mellas" xmlUrl="https://levelupsoftwareengineering.substack.com/feed" htmlUrl="https://levelupsoftwareengineering.substack.com/"/>
+      <outline type="rss" text="Richard Donovan" title="Richard Donovan" xmlUrl="https://tmsd.substack.com/feed" htmlUrl="https://tmsd.substack.com/"/>
+      <outline type="rss" text="Daniel Moka" title="Daniel Moka" xmlUrl="https://craftbettersoftware.com/feed" htmlUrl="https://craftbettersoftware.com/"/>
+      <outline type="rss" text="Tiger Abrodi" title="Tiger Abrodi" xmlUrl="https://tigerabrodi.substack.com/feed" htmlUrl="https://tigerabrodi.substack.com/"/>
+      <outline type="rss" text="Hemant Pandey" title="Hemant Pandey" xmlUrl="https://thehustlingengineer.substack.com/feed" htmlUrl="https://thehustlingengineer.substack.com/"/>
+      <outline type="rss" text="Alexandre Zajac" title="Alexandre Zajac" xmlUrl="https://hungrymindsdev.substack.com/feed" htmlUrl="https://hungrymindsdev.substack.com/"/>
+      <outline type="rss" text="Brian Jenney" title="Brian Jenney" xmlUrl="https://brianjenney.substack.com/feed" htmlUrl="https://brianjenney.substack.com/"/>
+      <outline type="rss" text="Francisco Manuel (Fran) Soto Ramírez" title="Francisco Manuel (Fran) Soto Ramírez" xmlUrl="https://strategizeyourcareer.substack.com/feed" htmlUrl="https://strategizeyourcareer.substack.com/"/>
+      <outline type="rss" text="Gergely Orosz" title="Gergely Orosz" xmlUrl="https://newsletter.pragmaticengineer.com/feed" htmlUrl="https://newsletter.pragmaticengineer.com/"/>
+      <outline type="rss" text="Kent Beck" title="Kent Beck" xmlUrl="https://tidyfirst.substack.com/feed" htmlUrl="https://tidyfirst.substack.com/"/>
+      <outline type="rss" text="Steve Huynh" title="Steve Huynh" xmlUrl="https://alifeengineered.substack.com/feed" htmlUrl="https://alifeengineered.substack.com/"/>
+      <outline type="rss" text="Kevin Naughton" title="Kevin Naughton" xmlUrl="https://kevinnaughtonjr.substack.com/feed" htmlUrl="https://kevinnaughtonjr.substack.com/"/>
+      <outline type="rss" text="Daniel Glejzner" title="Daniel Glejzner" xmlUrl="https://angularspace.com/rss" htmlUrl="https://angularspace.com/"/>
+      <outline type="rss" text="Valentina (Cupać) Jemuović" title="Valentina (Cupać) Jemuović" xmlUrl="https://journal.optivem.com/feed" htmlUrl="https://journal.optivem.com/"/>
+      <outline type="rss" text="Rahul Pandey" title="Rahul Pandey" xmlUrl="https://rahulpandey.substack.com/feed" htmlUrl="https://rahulpandey.substack.com/"/>
+      <outline type="rss" text="Alex Chiou" title="Alex Chiou" xmlUrl="https://email.jointaro.com/feed" htmlUrl="https://email.jointaro.com/"/>
+      <outline type="rss" text="Mike Thornton" title="Mike Thornton" xmlUrl="https://blog.devdetails.com/feed" htmlUrl="https://blog.devdetails.com/"/>
+      <outline type="rss" text="Marko Denic" title="Marko Denic" xmlUrl="https://markodenic.tech/feed" htmlUrl="https://markodenic.tech/"/>
+      <outline type="rss" text="Mads Brodt" title="Mads Brodt" xmlUrl="https://frontendfocus.substack.com/feed" htmlUrl="https://frontendfocus.substack.com/"/>
+      <outline type="rss" text="Petar Ivanov" title="Petar Ivanov" xmlUrl="https://petarivanov.substack.com/feed" htmlUrl="https://petarivanov.substack.com/"/>
+      <outline type="rss" text="Fernando Franco" title="Fernando Franco" xmlUrl="https://newsletter.francofernando.com/feed" htmlUrl="https://newsletter.francofernando.com/"/>
+      <outline type="rss" text="Ankur Tyagi" title="Ankur Tyagi" xmlUrl="https://theankurtyagi.substack.com/feed" htmlUrl="https://theankurtyagi.substack.com/"/>
+      <outline type="rss" text="Harley Ferguson" title="Harley Ferguson" xmlUrl="https://harleyferguson.substack.com/feed" htmlUrl="https://harleyferguson.substack.com/"/>
+      <outline type="rss" text="Milan Jovanović" title="Milan Jovanović" xmlUrl="https://milanjovanovic.substack.com/feed" htmlUrl="https://milanjovanovic.substack.com/"/>
+      <outline type="rss" text="Eric Roby" title="Eric Roby" xmlUrl="https://codingwithroby.substack.com/feed" htmlUrl="https://codingwithroby.substack.com/"/>
+      <outline text="Zubin Pratap [no public RSS feed]" title="Zubin Pratap" htmlUrl="https://www.linkedin.com/in/zubinpratap/"/>
+      <outline type="rss" text="Sam Williams" title="Sam Williams" xmlUrl="https://samwilliams.substack.com/feed" htmlUrl="https://samwilliams.substack.com/"/>
+      <outline type="rss" text="Maximiliano Contieri" title="Maximiliano Contieri" xmlUrl="https://maximilianocontieri.com/rss.xml" htmlUrl="https://maximilianocontieri.com/"/>
+      <outline type="rss" text="Sidwyn Koh" title="Sidwyn Koh" xmlUrl="https://sidwyn.substack.com/feed" htmlUrl="https://sidwyn.substack.com/"/>
+      <outline type="rss" text="Lenny's Newsletter" title="Lenny's Newsletter" xmlUrl="https://www.lennysnewsletter.com/feed" htmlUrl="https://www.lennysnewsletter.com/"/>
+      <outline type="rss" text="The Product Compass" title="The Product Compass" xmlUrl="https://www.productcompass.pm/feed" htmlUrl="https://www.productcompass.pm/"/>
+      <outline type="rss" text="Product Growth" title="Product Growth" xmlUrl="https://www.news.aakashg.com/feed" htmlUrl="https://www.news.aakashg.com/"/>
+      <outline type="rss" text="Wes Kao's Newsletter" title="Wes Kao's Newsletter" xmlUrl="https://newsletter.weskao.com/feed" htmlUrl="https://newsletter.weskao.com/"/>
+      <outline type="rss" text="Product Management IRL" title="Product Management IRL" xmlUrl="https://amycmitchell.substack.com/feed" htmlUrl="https://amycmitchell.substack.com/"/>
+      <outline type="rss" text="Leah's ProducTea" title="Leah's ProducTea" xmlUrl="https://www.leahtharin.com/feed" htmlUrl="https://www.leahtharin.com/"/>
+      <outline type="rss" text="Elena's Growth Scoop" title="Elena's Growth Scoop" xmlUrl="https://elenaverna.substack.com/feed" htmlUrl="https://elenaverna.substack.com/"/>
+      <outline type="rss" text="Untrapping Product Teams" title="Untrapping Product Teams" xmlUrl="https://dpereira.substack.com/feed" htmlUrl="https://dpereira.substack.com/"/>
+      <outline type="rss" text="Behind the Craft" title="Behind the Craft" xmlUrl="https://creatoreconomy.so/feed" htmlUrl="https://creatoreconomy.so/"/>
+      <outline type="rss" text="The Looking Glass" title="The Looking Glass" xmlUrl="https://lg.substack.com/feed" htmlUrl="https://lg.substack.com/"/>
+      <outline type="rss" text="The Beautiful Mess" title="The Beautiful Mess" xmlUrl="https://cutlefish.substack.com/feed" htmlUrl="https://cutlefish.substack.com/"/>
+      <outline type="rss" text="GTM Strategist" title="GTM Strategist" xmlUrl="https://knowledge.gtmstrategist.com/feed" htmlUrl="https://knowledge.gtmstrategist.com/"/>
+      <outline type="rss" text="Lenny Rachitsky" title="Lenny Rachitsky" xmlUrl="https://www.lennysnewsletter.com/feed" htmlUrl="https://www.lennysnewsletter.com/"/>
+      <outline type="rss" text="Pawel Huryn" title="Pawel Huryn" xmlUrl="https://www.productcompass.pm/feed" htmlUrl="https://www.productcompass.pm/"/>
+      <outline type="rss" text="Aakash Gupta" title="Aakash Gupta" xmlUrl="https://www.news.aakashg.com/feed" htmlUrl="https://www.news.aakashg.com/"/>
+      <outline type="rss" text="Wes Kao" title="Wes Kao" xmlUrl="https://newsletter.weskao.com/feed" htmlUrl="https://newsletter.weskao.com/"/>
+      <outline type="rss" text="Amy Mitchell" title="Amy Mitchell" xmlUrl="https://amycmitchell.substack.com/feed" htmlUrl="https://amycmitchell.substack.com/"/>
+      <outline type="rss" text="Leah Tharin" title="Leah Tharin" xmlUrl="https://www.leahtharin.com/feed" htmlUrl="https://www.leahtharin.com/"/>
+      <outline type="rss" text="Elena Verna" title="Elena Verna" xmlUrl="https://elenaverna.substack.com/feed" htmlUrl="https://elenaverna.substack.com/"/>
+      <outline type="rss" text="David Pereira" title="David Pereira" xmlUrl="https://dpereira.substack.com/feed" htmlUrl="https://dpereira.substack.com/"/>
+      <outline type="rss" text="Julie Zhuo" title="Julie Zhuo" xmlUrl="https://lg.substack.com/feed" htmlUrl="https://lg.substack.com/"/>
+      <outline type="rss" text="Peter Yang" title="Peter Yang" xmlUrl="https://creatoreconomy.so/feed" htmlUrl="https://creatoreconomy.so/"/>
+      <outline type="rss" text="John Cutler" title="John Cutler" xmlUrl="https://cutlefish.substack.com/feed" htmlUrl="https://cutlefish.substack.com/"/>
+      <outline type="rss" text="Maja Voje" title="Maja Voje" xmlUrl="https://knowledge.gtmstrategist.com/feed" htmlUrl="https://knowledge.gtmstrategist.com/"/>
+      <outline type="rss" text="DataExpert.io Newsletter" title="DataExpert.io Newsletter" xmlUrl="https://blog.dataengineer.io/feed" htmlUrl="https://blog.dataengineer.io/"/>
+      <outline type="rss" text="SeattleDataGuy's Newsletter" title="SeattleDataGuy's Newsletter" xmlUrl="https://seattledataguy.substack.com/feed" htmlUrl="https://seattledataguy.substack.com/"/>
+      <outline type="rss" text="Daily Dose of Data Science" title="Daily Dose of Data Science" xmlUrl="https://www.blog.dailydoseofds.com/feed" htmlUrl="https://www.blog.dailydoseofds.com/"/>
+      <outline type="rss" text="Data Engineering Central" title="Data Engineering Central" xmlUrl="https://dataengineeringcentral.substack.com/feed" htmlUrl="https://dataengineeringcentral.substack.com/"/>
+      <outline type="rss" text="Data Engineering Weekly" title="Data Engineering Weekly" xmlUrl="https://www.dataengineeringweekly.com/feed" htmlUrl="https://www.dataengineeringweekly.com/"/>
+      <outline type="rss" text="Joe Reis" title="Joe Reis" xmlUrl="https://joereis.substack.com/feed" htmlUrl="https://joereis.substack.com/"/>
+      <outline type="rss" text="Data Gibberish" title="Data Gibberish" xmlUrl="https://www.datagibberish.com/feed" htmlUrl="https://www.datagibberish.com/"/>
+      <outline type="rss" text="Zach Wilson" title="Zach Wilson" xmlUrl="https://blog.dataengineer.io/feed" htmlUrl="https://blog.dataengineer.io/"/>
+      <outline type="rss" text="Benjamin Rogojan" title="Benjamin Rogojan" xmlUrl="https://seattledataguy.substack.com/feed" htmlUrl="https://seattledataguy.substack.com/"/>
+      <outline type="rss" text="Avi Chawla" title="Avi Chawla" xmlUrl="https://www.blog.dailydoseofds.com/feed" htmlUrl="https://www.blog.dailydoseofds.com/"/>
+      <outline type="rss" text="Daniel Beach" title="Daniel Beach" xmlUrl="https://dataengineeringcentral.substack.com/feed" htmlUrl="https://dataengineeringcentral.substack.com/"/>
+      <outline type="rss" text="Ananth P" title="Ananth P" xmlUrl="https://www.dataengineeringweekly.com/feed" htmlUrl="https://www.dataengineeringweekly.com/"/>
+      <outline type="rss" text="Joe Reis" title="Joe Reis" xmlUrl="https://joereis.substack.com/feed" htmlUrl="https://joereis.substack.com/"/>
+      <outline type="rss" text="Pradeep Kumar" title="Pradeep Kumar" xmlUrl="https://pradeepkumar.substack.com/feed" htmlUrl="https://pradeepkumar.substack.com/"/>
+      <outline type="rss" text="Yordan Ivanov" title="Yordan Ivanov" xmlUrl="https://www.datagibberish.com/feed" htmlUrl="https://www.datagibberish.com/"/>
+      <outline type="rss" text="MarvelousMLOps" title="MarvelousMLOps" xmlUrl="https://www.marvelousmlops.io/feed" htmlUrl="https://www.marvelousmlops.io/"/>
+      <outline type="rss" text="AI Supremacy" title="AI Supremacy" xmlUrl="https://www.ai-supremacy.com/feed" htmlUrl="https://www.ai-supremacy.com/"/>
+      <outline type="rss" text="Into AI" title="Into AI" xmlUrl="https://intoai.pub/feed" htmlUrl="https://intoai.pub/"/>
+      <outline type="rss" text="The Palindrome" title="The Palindrome" xmlUrl="https://thepalindrome.org/feed" htmlUrl="https://thepalindrome.org/"/>
+      <outline type="rss" text="Decoding ML" title="Decoding ML" xmlUrl="https://www.decodingai.com/feed" htmlUrl="https://www.decodingai.com/"/>
+      <outline type="rss" text="The AI Engineer" title="The AI Engineer" xmlUrl="https://newsletter.owainlewis.com/feed/" htmlUrl="https://newsletter.owainlewis.com/"/>
+      <outline type="rss" text="Nate's Substack" title="Nate's Substack" xmlUrl="https://natesnewsletter.substack.com/feed" htmlUrl="https://natesnewsletter.substack.com/"/>
+      <outline type="rss" text="Neural Bits" title="Neural Bits" xmlUrl="https://multimodalai.substack.com/feed" htmlUrl="https://multimodalai.substack.com/"/>
+      <outline type="rss" text="The AI-Augmented Engineer" title="The AI-Augmented Engineer" xmlUrl="https://www.augmentedswe.com/feed/" htmlUrl="https://www.augmentedswe.com/"/>
+      <outline type="rss" text="Gradient Ascent" title="Gradient Ascent" xmlUrl="https://newsletter.artofsaience.com/feed" htmlUrl="https://newsletter.artofsaience.com/"/>
+      <outline type="rss" text="Air Around AI" title="Air Around AI" xmlUrl="https://airaroundai.substack.com/feed" htmlUrl="https://airaroundai.substack.com/"/>
+      <outline type="rss" text="Owain Lewis" title="Owain Lewis" xmlUrl="https://newsletter.owainlewis.com/feed" htmlUrl="https://newsletter.owainlewis.com/"/>
+      <outline type="rss" text="Paul Iusztin" title="Paul Iusztin" xmlUrl="https://www.decodingai.com/feed" htmlUrl="https://www.decodingai.com/"/>
+      <outline type="rss" text="Dr. Ashish Bamania" title="Dr. Ashish Bamania" xmlUrl="https://bamania-ashish.medium.com/feed" htmlUrl="https://bamania-ashish.medium.com/"/>
+      <outline type="rss" text="Maria Vechtomova" title="Maria Vechtomova" xmlUrl="https://www.marvelousmlops.io/feed" htmlUrl="https://www.marvelousmlops.io/"/>
+      <outline type="rss" text="Başak Tuğçe Eskili" title="Başak Tuğçe Eskili" xmlUrl="https://www.marvelousmlops.io/feed" htmlUrl="https://www.marvelousmlops.io/"/>
+      <outline type="rss" text="Michael Spencer" title="Michael Spencer" xmlUrl="https://www.ai-supremacy.com/feed" htmlUrl="https://www.ai-supremacy.com/"/>
+      <outline type="rss" text="Chip Huyen" title="Chip Huyen" xmlUrl="https://huyenchip.com/feed.xml" htmlUrl="https://huyenchip.com/"/>
+      <outline type="rss" text="Li Yin" title="Li Yin" xmlUrl="https://liyin.substack.com/feed" htmlUrl="https://liyin.substack.com/"/>
+      <outline type="rss" text="Raphaël Hoogvliets" title="Raphaël Hoogvliets" xmlUrl="https://mettlesome.substack.com/feed" htmlUrl="https://mettlesome.substack.com/"/>
+      <outline type="rss" text="Hamel Husain" title="Hamel Husain" xmlUrl="https://hamel.dev/index.xml" htmlUrl="https://hamel.dev/"/>
+      <outline type="rss" text="Meri Nova" title="Meri Nova" xmlUrl="https://merinova.substack.com/feed" htmlUrl="https://merinova.substack.com/"/>
+      <outline type="rss" text="Timur Bikmukhametov" title="Timur Bikmukhametov" xmlUrl="https://timurbik.substack.com/feed" htmlUrl="https://timurbik.substack.com/"/>
+      <outline type="rss" text="Alex Razvant" title="Alex Razvant" xmlUrl="https://multimodalai.substack.com/feed" htmlUrl="https://multimodalai.substack.com/"/>
+      <outline type="rss" text="Sairam Sundaresan" title="Sairam Sundaresan" xmlUrl="https://newsletter.artofsaience.com/feed" htmlUrl="https://newsletter.artofsaience.com/"/>
+    </outline>
+  </body>
+</opml>
